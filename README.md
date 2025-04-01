@@ -1,4 +1,4 @@
-# Prova Janaina - JEST Unit Tests
+# Prova da Janaina - JEST Unit Tests
 
 ## GitHub Actions
 
